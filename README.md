@@ -3,7 +3,7 @@
 
 Login with putty
 
-wget https://github.com/MasAries/EZServer/blob/master/install.sh
+wget https://github.com/MasAries/EZServer/raw/master/install.sh
 
 chmod 777 install.sh
 
