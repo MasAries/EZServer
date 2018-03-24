@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get install vlc vlc-plugin-* -y && sudo apt-get 
 sudo apt-get install psmisc
 sudo apt-get install unzip
 sudo apt-get install unrar
-wget https://github.com/MasAries/EZServer/blob/master/EZserver_Nulled_ReConfig_by_MasAries.zip
+wget https://github.com/MasAries/EZServer/archive/master.zip
 sudo unzip EZserver_Nulled_ReConfig_by_MasAries.zip
 rm EZserver_Nulled_ReConfig_by_MasAries.zip
 cd ezserver
